@@ -1,0 +1,2 @@
+# Santander-Customer-Transaction-Prediction-Using-CNN-
+Comparative study between machine learning classifiers and con volution neural networks on structured bank data. The structured bank data is converted into image data to be processed by a convolution neural network so that it utilizes Convolution Neural Network state of the art performance and eliminates the need for manual feature extraction or selection of features.
